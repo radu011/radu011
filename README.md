@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radu011
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Cryptography.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning malware analysis.
 
 I am an aspiring computer scientist with a strong passion for exploring the latest technologies and developing innovative solutions.
 
